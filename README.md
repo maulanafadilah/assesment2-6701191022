@@ -7,4 +7,4 @@ D3SI-43-01
 email : maulana@gmail.com
 pass  : 12345678
 
-https://assesment2-6701191022.azurewebsites.net/login/login.php
+https://assesment2-6701191022.azurewebsites.net
